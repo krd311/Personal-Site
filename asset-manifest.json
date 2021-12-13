@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/krd311.github.io/personal-site/static/css/main.dc5d4a1d.chunk.css",
+    "main.js": "/krd311.github.io/personal-site/static/js/main.b9c0f213.chunk.js",
+    "main.js.map": "/krd311.github.io/personal-site/static/js/main.b9c0f213.chunk.js.map",
+    "runtime-main.js": "/krd311.github.io/personal-site/static/js/runtime-main.63607973.js",
+    "runtime-main.js.map": "/krd311.github.io/personal-site/static/js/runtime-main.63607973.js.map",
+    "static/js/2.ec3d1905.chunk.js": "/krd311.github.io/personal-site/static/js/2.ec3d1905.chunk.js",
+    "static/js/2.ec3d1905.chunk.js.map": "/krd311.github.io/personal-site/static/js/2.ec3d1905.chunk.js.map",
+    "static/js/3.0431e8cb.chunk.js": "/krd311.github.io/personal-site/static/js/3.0431e8cb.chunk.js",
+    "static/js/3.0431e8cb.chunk.js.map": "/krd311.github.io/personal-site/static/js/3.0431e8cb.chunk.js.map",
+    "index.html": "/krd311.github.io/personal-site/index.html",
+    "static/css/main.dc5d4a1d.chunk.css.map": "/krd311.github.io/personal-site/static/css/main.dc5d4a1d.chunk.css.map",
+    "static/js/2.ec3d1905.chunk.js.LICENSE.txt": "/krd311.github.io/personal-site/static/js/2.ec3d1905.chunk.js.LICENSE.txt",
+    "static/media/me.7d056a6b.jpeg": "/krd311.github.io/personal-site/static/media/me.7d056a6b.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63607973.js",
+    "static/js/2.ec3d1905.chunk.js",
+    "static/css/main.dc5d4a1d.chunk.css",
+    "static/js/main.b9c0f213.chunk.js"
+  ]
+}
