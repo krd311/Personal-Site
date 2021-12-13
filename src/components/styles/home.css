@@ -1,0 +1,72 @@
+.home{
+    padding-top: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #f3f3f3;
+    text-align: top;
+    font-size: x-large;
+}
+
+.welcome-text{
+    font-weight: bold;
+}
+
+.selfImage{
+    border-radius: 50%;
+    width: 20%;
+    height: auto;
+    padding-top: 2%;
+    align-content: center;
+    padding-right: 5%;
+    padding-left: 3%;
+}
+
+.nameText{
+    padding-top: 1%;
+    font-size: large;
+}
+
+.home-section{
+    width: 100%;
+}
+
+.about-text{
+    padding-top: 1%;
+    align-self: stretch;
+    flex-grow: 1;
+    font-size: large;
+    display: flex;
+    justify-content: first baseline;
+    flex-direction: row;
+    text-align: left;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-weight: bold;
+}
+
+.description{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: medium;
+    font-weight: normal;
+    line-height: 1.5;
+}
+
+.caption{
+    font-size: 1.5vw;
+}
+
+.about-text-border{
+    padding-left: 20%;
+    max-width: 30%;
+    padding-right: 10%;
+}
+
+
+
+
+
+
+

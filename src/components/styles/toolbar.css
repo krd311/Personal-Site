@@ -1,0 +1,19 @@
+.toolbar{
+    display:flex;
+    flex-direction: row;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #1d1d1f;
+    justify-content: space-between;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.toolbar-text{
+    color:#a9a9a9;
+    text-decoration: none;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+
+
+}
+
