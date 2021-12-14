@@ -46,6 +46,20 @@
     font-weight: bold;
 }
 
+.about-text-mobile{
+    padding-top: 1%;
+    align-self: stretch;
+    flex-grow: 1;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+    font-weight: bold; 
+}
+
 .description{
     padding-top: 1%;
     padding-bottom: 1%;
@@ -64,6 +78,12 @@
     padding-right: 10%;
 }
 
+.about-text-border{
+    .about-text-border{
+        padding-left: 20%;
+        padding-right: 20%;
+    }
+}
 
 
 
