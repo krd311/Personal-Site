@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/kyledoliente.com/static/css/main.dc5d4a1d.chunk.css",
-    "main.js": "/kyledoliente.com/static/js/main.7c70b795.chunk.js",
-    "main.js.map": "/kyledoliente.com/static/js/main.7c70b795.chunk.js.map",
-    "runtime-main.js": "/kyledoliente.com/static/js/runtime-main.0e0ec982.js",
-    "runtime-main.js.map": "/kyledoliente.com/static/js/runtime-main.0e0ec982.js.map",
-    "static/js/2.ec3d1905.chunk.js": "/kyledoliente.com/static/js/2.ec3d1905.chunk.js",
-    "static/js/2.ec3d1905.chunk.js.map": "/kyledoliente.com/static/js/2.ec3d1905.chunk.js.map",
-    "static/js/3.0431e8cb.chunk.js": "/kyledoliente.com/static/js/3.0431e8cb.chunk.js",
-    "static/js/3.0431e8cb.chunk.js.map": "/kyledoliente.com/static/js/3.0431e8cb.chunk.js.map",
-    "index.html": "/kyledoliente.com/index.html",
-    "static/css/main.dc5d4a1d.chunk.css.map": "/kyledoliente.com/static/css/main.dc5d4a1d.chunk.css.map",
-    "static/js/2.ec3d1905.chunk.js.LICENSE.txt": "/kyledoliente.com/static/js/2.ec3d1905.chunk.js.LICENSE.txt",
-    "static/media/me.7d056a6b.jpeg": "/kyledoliente.com/static/media/me.7d056a6b.jpeg"
+    "main.css": "/static/css/main.dc5d4a1d.chunk.css",
+    "main.js": "/static/js/main.7c70b795.chunk.js",
+    "main.js.map": "/static/js/main.7c70b795.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3592263a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3592263a.js.map",
+    "static/js/2.ec3d1905.chunk.js": "/static/js/2.ec3d1905.chunk.js",
+    "static/js/2.ec3d1905.chunk.js.map": "/static/js/2.ec3d1905.chunk.js.map",
+    "static/js/3.0431e8cb.chunk.js": "/static/js/3.0431e8cb.chunk.js",
+    "static/js/3.0431e8cb.chunk.js.map": "/static/js/3.0431e8cb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.dc5d4a1d.chunk.css.map": "/static/css/main.dc5d4a1d.chunk.css.map",
+    "static/js/2.ec3d1905.chunk.js.LICENSE.txt": "/static/js/2.ec3d1905.chunk.js.LICENSE.txt",
+    "static/media/me.7d056a6b.jpeg": "/static/media/me.7d056a6b.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e0ec982.js",
+    "static/js/runtime-main.3592263a.js",
     "static/js/2.ec3d1905.chunk.js",
     "static/css/main.dc5d4a1d.chunk.css",
     "static/js/main.7c70b795.chunk.js"
