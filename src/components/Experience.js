@@ -10,7 +10,7 @@ export const Experience = () => {
     const experienceText2 = " I am a current developer in Commit the Change at UCI, an organization that creates software for non-profit organizations. "
     const learningAssistantText = "I was also a learning assistant for the Fall 2020 quarter. My job was to help teach the introductory Python class for UCI. My responsibilties included managing breakout rooms in lecture, hosting office hours, and grading assignments."
 
-    const isMobile = useMediaQuery({ query: '(max-width: 500px)' });
+    const isMobile = useMediaQuery({ query: '(max-width: 750px)' });
     const experienceTextFomat = isMobile ? 'experience-header-mobile' : 'experience-header';
     
     return (
