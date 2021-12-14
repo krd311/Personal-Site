@@ -2,9 +2,17 @@ import React from 'react'
 import './styles/experience.css'
 import './styles/projects.css'
 
-export const Projects = () => {
+export const Projects = (props) => {
+    let experienceClass = '';
+
+    if (!props.check){
+        experienceClass = 'experience-header projects-header'
+    }
+    else{
+        experienceClass = 'experience-header-mobile projects-header'
+    }
     return (
-        <div class ='experience-header projects-header'>
+        <div class ={experienceClass}>
             Projects
             <div class='experience-text'>
                 <strong>Package Tracker </strong>
