@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/personal-site/static/css/main.dc5d4a1d.chunk.css",
-    "main.js": "/personal-site/static/js/main.7c70b795.chunk.js",
-    "main.js.map": "/personal-site/static/js/main.7c70b795.chunk.js.map",
-    "runtime-main.js": "/personal-site/static/js/runtime-main.34cb83bc.js",
-    "runtime-main.js.map": "/personal-site/static/js/runtime-main.34cb83bc.js.map",
-    "static/js/2.ec3d1905.chunk.js": "/personal-site/static/js/2.ec3d1905.chunk.js",
-    "static/js/2.ec3d1905.chunk.js.map": "/personal-site/static/js/2.ec3d1905.chunk.js.map",
-    "static/js/3.0431e8cb.chunk.js": "/personal-site/static/js/3.0431e8cb.chunk.js",
-    "static/js/3.0431e8cb.chunk.js.map": "/personal-site/static/js/3.0431e8cb.chunk.js.map",
-    "index.html": "/personal-site/index.html",
-    "static/css/main.dc5d4a1d.chunk.css.map": "/personal-site/static/css/main.dc5d4a1d.chunk.css.map",
-    "static/js/2.ec3d1905.chunk.js.LICENSE.txt": "/personal-site/static/js/2.ec3d1905.chunk.js.LICENSE.txt",
-    "static/media/me.7d056a6b.jpeg": "/personal-site/static/media/me.7d056a6b.jpeg"
+    "main.css": "/kyledoliente.com/static/css/main.dc5d4a1d.chunk.css",
+    "main.js": "/kyledoliente.com/static/js/main.7c70b795.chunk.js",
+    "main.js.map": "/kyledoliente.com/static/js/main.7c70b795.chunk.js.map",
+    "runtime-main.js": "/kyledoliente.com/static/js/runtime-main.0e0ec982.js",
+    "runtime-main.js.map": "/kyledoliente.com/static/js/runtime-main.0e0ec982.js.map",
+    "static/js/2.ec3d1905.chunk.js": "/kyledoliente.com/static/js/2.ec3d1905.chunk.js",
+    "static/js/2.ec3d1905.chunk.js.map": "/kyledoliente.com/static/js/2.ec3d1905.chunk.js.map",
+    "static/js/3.0431e8cb.chunk.js": "/kyledoliente.com/static/js/3.0431e8cb.chunk.js",
+    "static/js/3.0431e8cb.chunk.js.map": "/kyledoliente.com/static/js/3.0431e8cb.chunk.js.map",
+    "index.html": "/kyledoliente.com/index.html",
+    "static/css/main.dc5d4a1d.chunk.css.map": "/kyledoliente.com/static/css/main.dc5d4a1d.chunk.css.map",
+    "static/js/2.ec3d1905.chunk.js.LICENSE.txt": "/kyledoliente.com/static/js/2.ec3d1905.chunk.js.LICENSE.txt",
+    "static/media/me.7d056a6b.jpeg": "/kyledoliente.com/static/media/me.7d056a6b.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.34cb83bc.js",
+    "static/js/runtime-main.0e0ec982.js",
     "static/js/2.ec3d1905.chunk.js",
     "static/css/main.dc5d4a1d.chunk.css",
     "static/js/main.7c70b795.chunk.js"
