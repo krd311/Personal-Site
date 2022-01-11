@@ -15,7 +15,7 @@
 
 .selfImage{
     border-radius: 50%;
-    width: 25%;
+    width: 25vh;
     max-width:min-content;
     height: auto;
     padding-top: 2%;
