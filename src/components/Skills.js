@@ -19,6 +19,9 @@ export const Skills = () => {
                 <li>
                     CSS
                 </li>
+                <li>
+                    React
+                </li>
             </div>
         </div>
     )

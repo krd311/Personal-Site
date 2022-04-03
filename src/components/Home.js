@@ -1,6 +1,5 @@
 import React from 'react';
 import './styles/home.css';
-import me from './images/me.jpeg';
 import Skills from './Skills';
 import Experience from './Experience';
 import Projects from './Projects';
@@ -22,7 +21,7 @@ export const Home = () => {
                     Welcome to my personal site!
                 </div>
                 <div class='home-section'>
-                        <img src={me} class={imageSize}/>
+                        <img src="https://media-exp1.licdn.com/dms/image/D5603AQG5JThV0CMmPQ/profile-displayphoto-shrink_800_800/0/1642218466336?e=1654732800&v=beta&t=dkptyW9P2bM1BHOKiJvfzvIrpQ-q96zZCyuad4BS8YU" class={imageSize}/>
                         <figcaption class='caption'>Kyle Doliente</figcaption>
                         <br></br>
                         <div class={textStyle}>

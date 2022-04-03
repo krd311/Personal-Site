@@ -16,10 +16,18 @@ export const Projects = (props) => {
             Projects
             <br></br>
             <div class='experience-text'>
+                <strong>UCI Bathroom Map</strong>
+                <br></br>
+                - This is a progessive web application that uses the Google Maps API to locate restrooms on the UCI campus and find the fastest walking directions to them. Relevant infromation on the restrooms is retreived from a mongoDB backend while the frontend was created with React.
+                <br></br>
+                <br></br>
+                - I also gained a lot of experience with working with a team. My team of 9 individuals took part in regular meetings to constantly plan and discuss features for the project.  
+
+                <br></br>
+                <br></br>
                 <strong>Film Photo Sharing Website</strong>
                 <br></br>
                 - This is an in-progress web application that will enable users to show off their film photos on their profiles. Users will be able to create accounts, upload photos, give them titles, and more. The frontend was created using React and mongoDB was used as the backend.
-             
 
                 <br></br>
                 <br></br>

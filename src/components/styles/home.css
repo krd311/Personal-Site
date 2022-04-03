@@ -4,24 +4,22 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background-color: #f3f3f3;
+    width: 100%;
     text-align: top;
     font-size: large;
+    /*background-image: url("../images/background.jpg");*/
 }
 
 .welcome-text{
     font-weight: bold;
+    padding-bottom: 2%;
 }
 
 .selfImage{
-    border-radius: 50%;
     width: 25vh;
-    max-width:min-content;
-    height: auto;
-    padding-top: 2%;
+    border-radius: 50%;
+    overflow: hidden;
     align-content: center;
-    padding-right: 5%;
-    padding-left: 3%;
 }
 
 .selfImageMobile{

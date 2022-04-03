@@ -1,0 +1,16 @@
+.welcome-picture{
+    width: 100%;
+    height: 40vh;
+    object-fit:cover;
+    filter: brightness(75%);
+    position: relative;
+}
+
+.container-text{
+    position: absolute;
+    top: 10%;
+    left: 0;
+    width: 100%;
+    margin: 0 auto;
+    color: white;
+}
